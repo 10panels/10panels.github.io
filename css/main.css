@@ -1,0 +1,126 @@
+body 
+{
+	background-color: #ffffff;
+	font-family: Courier;
+	font-size: 12px;
+	color: #000000;
+}
+
+.main_section
+{
+	background-color: #ffffff;
+	width: 700px;
+	margin: auto;
+}
+
+.header_section
+{
+	float: left;	
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.comic_section
+{
+	float: left;	
+	clear: both;
+}
+
+.footer_section
+{
+	float: left;	
+	clear: both;
+	text-align: center;
+	width: 655px;
+	margin-top: 50px;
+	margin-bottom: 4px;
+}
+
+.header_logo
+{
+	margin: 2px 2px 2px 2px;
+	padding: 2px 2px 2px 2px;
+}
+
+.comic_title
+{
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.comic_image
+{
+}
+
+.comic_nav
+{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.nav_button
+{	
+	font-size: 2.5em;
+	letter-spacing: -0.2em;
+	font-weight: bold;
+	margin: 2px 16px 2px 16px;
+	padding: 0px 0px 0px 0px;
+	text-decoration: none;
+	color: #000000;
+}
+
+.nav_button a:link 
+{
+	color: #000000;
+}
+.nav_button a:active 
+{
+	color: #000000;
+}
+.nav_button a:visited
+{
+	color: #000000;
+}
+.nav_button a:hover
+{
+	color: #000000;
+}
+
+.nav_button_disabled
+{	
+	font-size: 2.5em;
+	letter-spacing: -0.2em;
+	font-weight: bold;
+	margin: 2px 16px 2px 16px;
+	padding: 0px 0px 0px 0px;
+	text-decoration: none;
+	color: #aaaaaa;
+	cursor: default;
+}
+
+.nav_button_disabled a:link 
+{
+	color: #aaaaaa;
+}
+.nav_button_disabled a:active 
+{
+	color: #aaaaaa;
+}
+.nav_button_disabled a:visited
+{
+	color: #aaaaaa;
+}
+.nav_button_disabled a:hover
+{
+	color: #aaaaaa;
+}
+
+
+.license_link
+{
+	font-size: 0.9em;
+	text-decoration: underline;
+	color: #000000;
+}
+
