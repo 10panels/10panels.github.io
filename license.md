@@ -1,7 +1,7 @@
 License
 =====
 
-All content on this page is licensed under aCreative Commons Attribution-NonCommercial 2.5 License.
+All content on this page is licensed under a Creative Commons Attribution-NonCommercial 2.5 License.
 
 Source:
 
