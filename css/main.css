@@ -1,4 +1,4 @@
-body 
+body
 {
 	background-color: #ffffff;
 	font-family: Courier;
@@ -15,24 +15,32 @@ body
 
 .header_section
 {
-	float: left;	
+	float: left;
 	clear: both;
 	margin-bottom: 20px;
 }
 
 .comic_section
 {
-	float: left;	
+	float: left;
+	clear: both;
+}
+
+.references_section
+{
+	margin-top: 20px;
+	margin-bottom: 0px;
+	float: left;
 	clear: both;
 }
 
 .footer_section
 {
-	float: left;	
+	float: left;
 	clear: both;
 	text-align: center;
 	width: 655px;
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-bottom: 4px;
 }
 
@@ -59,8 +67,23 @@ body
 	margin-top: 10px;
 }
 
+.references_header
+{
+	text-align: left;
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+.references_item
+{
+	text-align: left;
+	font-size: 1em;
+	margin-bottom: 8px;
+	list-style-type: none;
+}
 .nav_button
-{	
+{
 	font-size: 2.5em;
 	letter-spacing: -0.2em;
 	font-weight: bold;
@@ -70,11 +93,11 @@ body
 	color: #000000;
 }
 
-.nav_button a:link 
+.nav_button a:link
 {
 	color: #000000;
 }
-.nav_button a:active 
+.nav_button a:active
 {
 	color: #000000;
 }
@@ -88,7 +111,7 @@ body
 }
 
 .nav_button_disabled
-{	
+{
 	font-size: 2.5em;
 	letter-spacing: -0.2em;
 	font-weight: bold;
@@ -99,11 +122,11 @@ body
 	cursor: default;
 }
 
-.nav_button_disabled a:link 
+.nav_button_disabled a:link
 {
 	color: #aaaaaa;
 }
-.nav_button_disabled a:active 
+.nav_button_disabled a:active
 {
 	color: #aaaaaa;
 }
@@ -123,4 +146,3 @@ body
 	text-decoration: underline;
 	color: #000000;
 }
-
